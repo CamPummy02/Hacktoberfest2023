@@ -1,5 +1,5 @@
 """
-
+A python program to
 print armstrong number within a range without using 
 import math and def in the code ,using only loop
 
